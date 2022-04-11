@@ -1,0 +1,44 @@
+arithmatic operator : + -  * / %
+logical operator && || !
+relational operator  <,>, ==
+increment decrement operator ==> ++ , --
+asignment operator => = 
+
+= use:
+
+it assign value of right side to left side
+
+a = 10
+value of a = 10
+
+b=100
+a = b
+a = 100
+
+a = 10
+b= 20
+
+b = 10
+a = 20
+
+temp;
+
+temp =a ;
+a = b;
+b = temp;
+
+
+a - 10
+b - 20
+
++ -
+
+a = a + b //a = 10 +20 a = 30
+b= a - b  b = 30 -20  b =10
+a = a - b 30 -10 = 20 a = 20
+
+* /
+
+a = a * b  // a = 10 *20 a =200
+b = a / b // 200 / 20 b = 10
+a = a /b // 200 / 10 20
