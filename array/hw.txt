@@ -1,2 +1,12 @@
 column sum in matrix
 sum of 2 matrix
+
+1 2 3
+4 5 6
+7 8 9
+
+
+max from matrix 
+remove even from matrix 0
+:take input from user of wether of 7 days for morning evening and find average of it per day,
+and find sunny day from week.

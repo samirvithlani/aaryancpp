@@ -1,0 +1,43 @@
+4 basse concepts
+
+    1)inheritance
+    2)encapsulation
+    3)abstraction
+    4)polymorphisam
+
+9 concepts
+    inheritance
+    class
+    object
+    constructor
+    abstraction
+    overloading
+    overriding
+    polymorphisam
+    data hiding
+
+class :- class is group data members and member function, we can say class is a blue print
+
+      Vehicle : car
+      Vehicle Has a car
+      car is a Vehicle
+
+      Fruit   : Apple
+
+        Uni : Stunders.fac,mang
+
+in c++ we can create n class in single file...
+in c++ all instance variable are by default private .. class level variable
+
+1 soc 
+
+1 -->house  ->aaryan --< 20
+        -->
+    -->
+2 --> house -->aaryan --< 1
+
+        
+
+
+
+object: object is an entity of a class.
