@@ -1,0 +1,10 @@
+getline
+push_back
+pop_back
+append
+insert
+at
+erase
+length
+find
+clear

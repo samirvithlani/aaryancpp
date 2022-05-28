@@ -1,0 +1,99 @@
+//polymorephisam
+//many form of the function
+
+                                                            polymorephisam
+                  compile time polymorephisam/static binding             run time polymorephisam/Dynamic binding                  
+                             function overloaing/operator overloading             function overriding
+
+
+
+
+same name funciton with different parameters called function overloading
+
+search(string name)
+search(string name,string bname)
+search(string name,int price)
+
+function overriding :-
+
+parent class's function created in child class with same name and same parameters(signature) called function overriding
+
+mumbai
+cap(param){
+
+    15 --> mumbai
+}
+
+child class of mumbai starb
+Chennai(param){
+
+    20 --> Chennai
+}
+------------------------------------------------------------------------------------------------------------------------
+SBI              HDFC
+                 Debit card..
+ATM MACHINE
+
+            RBI -->
+            withdraw()
+
+sbiwithdraw()    -->hdfc HDFCwithdraw()
+
+withdraw()          withdraw()
+
+------------------------------------------------------------------------------------------------------------------------
+
+            TRAI
+JIO
+    call(){
+        -->ind
+    }
+
+Airtal
+
+   call(){
+
+       sing
+   }
+
+--------------------------------------------------------------------------------------------------------------------------------------
+FACEBOOK --> like()  --> os  -> A B C D E
+
+Facebook{
+
+virtual void like(){
+
+}
+
+
+}
+
+A :Facebook{
+
+    Alike(){
+
+
+    }
+}
+B{
+    
+        Blike(){
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

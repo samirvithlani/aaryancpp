@@ -1,0 +1,9 @@
+1)find number of accurance in senrance
+Hello this is java 
+      i -->
+
+2)remove duplicate char
+3)find number of word in sentence
+4)find longest word in sentence
+5)find shortest word in sentence
+6)find number of char in sentence
