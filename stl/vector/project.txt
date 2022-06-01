@@ -1,0 +1,24 @@
+CRUD create retive / read update and delete...
+create operartion for students using vector...
+menu driven
+4 functions:
+
+    create
+    read
+    update
+    delete
+
+
+switch case...
+
+    press for insert data
+    press for read data
+    press for update data
+    press for delete data
+    press 5 fro exit...
+
+
+
+
+
+

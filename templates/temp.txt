@@ -1,0 +1,18 @@
+
+We have 2 type of teamplates 
+
+1)function template
+2)class template
+
+*/
+
+void demo(int a){}
+
+
+
+demo("ten")
+
+please enter your age:---
+10
+ten
+genric for all !!!
